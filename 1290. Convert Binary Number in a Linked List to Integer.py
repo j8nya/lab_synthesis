@@ -2,6 +2,7 @@
 #   (((0*2)+a)*2+b)*2+c
 
 class Solution:
+    #def getDecimalValue(self, head: ListNode) -> int:
     def getDecimalValue(self, head):
         res = 0
         #пока не конец списка 
