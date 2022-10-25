@@ -1,3 +1,9 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+
 #   a->b->c
 #   (((0*2)+a)*2+b)*2+c
 
